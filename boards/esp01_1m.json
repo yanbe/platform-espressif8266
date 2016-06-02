@@ -11,8 +11,9 @@
   }, 
   "frameworks": [
     "arduino", 
-    "simba"
-  ], 
+    "simba",
+    "sming"
+  ],
   "name": "Espressif Generic ESP8266 ESP-01 1M", 
   "upload": {
     "maximum_ram_size": 81920, 

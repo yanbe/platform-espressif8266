@@ -10,8 +10,9 @@
     "variant": "generic"
   }, 
   "frameworks": [
-    "arduino"
-  ], 
+    "arduino", 
+    "sming"
+  ],  
   "name": "SweetPea ESP-210", 
   "upload": {
     "maximum_ram_size": 81920, 

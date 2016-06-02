@@ -10,7 +10,8 @@
     "variant": "generic"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "Olimex MOD-WIFI-ESP8266(-DEV)", 
   "upload": {

@@ -10,7 +10,8 @@
     "variant": "d1"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "WeMos D1(Retired)", 
   "upload": {

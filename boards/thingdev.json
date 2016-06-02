@@ -10,7 +10,8 @@
     "variant": "thing"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "SparkFun ESP8266 Thing Dev", 
   "upload": {

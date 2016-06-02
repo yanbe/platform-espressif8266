@@ -10,7 +10,8 @@
     "variant": "espresso_lite_v2"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "ESPresso Lite 2.0", 
   "upload": {

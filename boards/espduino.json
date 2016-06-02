@@ -10,7 +10,8 @@
     "variant": "ESPDuino"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "ESPDuino (ESP-13 Module)", 
   "upload": {

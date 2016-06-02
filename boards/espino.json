@@ -10,7 +10,8 @@
     "variant": "espino"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "ESPino", 
   "upload": {

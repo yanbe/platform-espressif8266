@@ -11,8 +11,9 @@
   }, 
   "frameworks": [
     "arduino", 
-    "simba"
-  ], 
+    "simba",
+    "sming"
+  ],
   "name": "Espressif ESP8266 ESP-12E", 
   "upload": {
     "maximum_ram_size": 81920, 

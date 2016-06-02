@@ -10,7 +10,8 @@
     "variant": "espinotee"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "ThaiEasyElec ESPino", 
   "upload": {

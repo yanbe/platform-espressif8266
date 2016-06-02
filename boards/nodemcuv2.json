@@ -11,7 +11,8 @@
   }, 
   "frameworks": [
     "arduino", 
-    "simba"
+    "simba",
+    "sming"
   ], 
   "name": "NodeMCU 1.0 (ESP-12E Module)", 
   "upload": {

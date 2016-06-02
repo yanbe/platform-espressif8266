@@ -10,7 +10,8 @@
     "variant": "nodemcu"
   }, 
   "frameworks": [
-    "arduino"
+    "arduino", 
+    "sming"
   ], 
   "name": "ESP-WROOM-02", 
   "upload": {

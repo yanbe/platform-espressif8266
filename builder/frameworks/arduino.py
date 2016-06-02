@@ -48,6 +48,21 @@ env.Prepend(
 env.Append(
     LIBSOURCE_DIRS=[
         join(FRAMEWORK_DIR, "libraries")
+    ],
+
+    CFLAGS=[
+        "-std=gnu99",
+        "-Wno-implicit-function-declaration",
+        "-fno-inline-functions"
+    ],
+
+    CCFLAGS=[
+        "-falign-functions=4",
+        "-U__STRICT_ANSI__"
+    ],
+
+    LINKFLAGS=[
+        "-Wl,--no-check-sections"
     ]
 )
 

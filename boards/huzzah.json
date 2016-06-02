@@ -11,7 +11,8 @@
   }, 
   "frameworks": [
     "arduino", 
-    "simba"
+    "simba",
+    "sming"
   ], 
   "name": "Adafruit HUZZAH ESP8266", 
   "upload": {
